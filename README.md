@@ -2,4 +2,4 @@
 
 
 ## Stats📈
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pabpercab1?cardType=level&preferLogin=true)](https://git.io/awesome-stats-card)
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabpercab1&show_icons=true)
